@@ -1,0 +1,11 @@
+.home_page_form{width: 80%;margin-left: 10%;}
+.tasksheet{width: 40%;margin-left: 10%;float: left;}
+.update{width: 40%;margin-right:10%;float: left;}
+table, td, th {
+    border: 1px solid black;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
